@@ -5,4 +5,6 @@
  * @Version:1.0
  */
 public class Test2 {
+	int a=1;
+	int b=2;
 }
